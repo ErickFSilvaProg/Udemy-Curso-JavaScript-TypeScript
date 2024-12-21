@@ -1,7 +1,7 @@
 # Udemy - Curso de JavaScript e TypeScript
 **Instrutores:** *Luiz Otávio Miranda* e *Tales Calogi Malaquias*
 
-- [] Seção 01: Configurando o ambiente no Windows e Linux
+- [x] Seção 01: Configurando o ambiente no Windows e Linux
 - [] Seção 02: JavaScript básico - Para iniciantes
 - [] Seção 03: JavaScript - Lógica de programação
 - [] Seção 04: JavaScript funções (Avançado)
