@@ -7,34 +7,34 @@
 - [ ] Seção 04: JavaScript funções (Avançado)
 - [ ] Seção 05: JavaScript arrays (Avançado)
 - [ ] Seção 06: JavaScript objetos e prototypes (Avançado)
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Seção 07: JavaScript classes - Programação orientada a objetos(POO)
+- [ ] Seção 08: JavaScript assíncrono - Promises, ajax, fetch e async/await
+- [ ] Seção 09: JavaScript tooling e ES6 modules - Módulos
+- [ ] Seção 10: JavaScript - Node, npm, express e mongoDB (NodesJS)
+- [ ] Seção 11: JavaScript + Node - Projeto Agenda (com express + mongoDB)
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
+- [ ] Seção   : 
